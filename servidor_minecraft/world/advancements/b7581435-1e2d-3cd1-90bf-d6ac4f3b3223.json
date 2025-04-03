@@ -567,6 +567,7 @@
       "minecraft:skeleton": "2025-04-03 01:27:01 +0000",
       "minecraft:spider": "2025-04-03 01:33:43 +0000",
       "minecraft:creeper": "2025-04-03 01:19:16 +0000",
+      "minecraft:cave_spider": "2025-04-03 03:43:20 +0000",
       "minecraft:enderman": "2025-04-03 03:35:05 +0000",
       "minecraft:zombie": "2025-04-03 01:20:05 +0000"
     },
@@ -1634,6 +1635,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-03 03:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-03 02:32:29 +0000"
@@ -1811,6 +1818,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-03 02:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-03 03:48:46 +0000"
     },
     "done": true
   },
