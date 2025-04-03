@@ -261,3 +261,10 @@ java.lang.Exception: null
 [01:31:57] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
 [01:37:39] [Server thread/INFO]: Criss_17 has made the advancement [Suit Up]
 [01:37:44] [Server thread/INFO]: Criss_17 has made the advancement [Isn't It Iron Pick]
+[02:11:29] [Server thread/INFO]: Criss_17 was slain by Iron Golem
+[02:11:36] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[02:11:50] [Server thread/INFO]: Criss_17 lost connection: Timed out
+[02:11:50] [Server thread/INFO]: Criss_17 left the game
+[02:11:50] [Server thread/WARN]: handleDisconnection() called twice
+[02:12:03] [Server thread/INFO]: Criss_17[/127.94.240.200:56417] logged in with entity id 15319 at (-446.52140112563006, 69.03934645526707, -1026.502291937595)
+[02:12:03] [Server thread/INFO]: Criss_17 joined the game
