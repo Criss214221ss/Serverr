@@ -316,3 +316,25 @@ java.lang.Exception: null
 [05:10:49] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
 [05:10:53] [Server thread/INFO]: Criss_17 was slain by Iron Golem
 [05:10:59] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[05:25:19] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[05:26:07] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[05:26:07] [Server thread/INFO]: Criss_17 has made the advancement [Eye Spy]
+[05:30:47] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[05:30:59] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[05:31:06] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -442.500000, 70.500000, -1025.500000]
+[05:33:21] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[05:33:25] [Server thread/INFO]: [Criss_17: Set own game mode to Adventure Mode]
+[05:33:26] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[05:34:01] [Server thread/INFO]: [Criss_17: Set own game mode to Adventure Mode]
+[05:34:08] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[05:37:47] [Server thread/INFO]: [Criss_17: Stopping the server]
+[05:37:47] [Server thread/INFO]: Stopping server
+[05:37:47] [Server thread/INFO]: Saving players
+[05:37:47] [Server thread/INFO]: Saving worlds
+[05:37:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:37:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:37:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:37:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
