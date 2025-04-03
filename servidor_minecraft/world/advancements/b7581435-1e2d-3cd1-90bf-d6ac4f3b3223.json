@@ -564,9 +564,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-03 04:54:21 +0000",
       "minecraft:skeleton": "2025-04-03 01:27:01 +0000",
       "minecraft:spider": "2025-04-03 01:33:43 +0000",
       "minecraft:creeper": "2025-04-03 01:19:16 +0000",
+      "minecraft:wither_skeleton": "2025-04-03 04:56:24 +0000",
       "minecraft:cave_spider": "2025-04-03 03:43:20 +0000",
       "minecraft:enderman": "2025-04-03 03:35:05 +0000",
       "minecraft:zombie": "2025-04-03 01:20:05 +0000"
@@ -1521,6 +1523,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-03 04:51:08 +0000",
+      "minecraft:nether_wastes": "2025-04-03 04:46:10 +0000",
+      "minecraft:warped_forest": "2025-04-03 04:41:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-04-03 04:40:10 +0000"
@@ -1536,6 +1546,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-03 02:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-03 04:41:51 +0000"
     },
     "done": true
   },
@@ -1635,9 +1651,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-03 04:50:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-03 03:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-03 04:41:51 +0000"
     },
     "done": true
   },
@@ -1692,6 +1720,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-03 03:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-03 04:54:22 +0000"
     },
     "done": true
   },
@@ -1791,6 +1825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-03 04:54:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-03 04:40:06 +0000"
@@ -1872,6 +1912,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-03 03:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-03 04:50:01 +0000"
     },
     "done": true
   },
@@ -1983,6 +2029,18 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-03 04:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-03 04:42:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-03 04:40:06 +0000"
@@ -2010,6 +2068,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-03 03:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-03 04:54:22 +0000"
     },
     "done": true
   },
