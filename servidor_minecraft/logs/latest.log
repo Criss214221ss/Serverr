@@ -243,3 +243,4 @@
 [22:21:55] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
 [22:21:56] [Server thread/INFO]: Criss_17[/127.94.240.200:37525] logged in with entity id 109 at (-440.0882153684878, 78.0, -1033.078458127219)
 [22:21:56] [Server thread/INFO]: Criss_17 joined the game
+[23:27:29] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
