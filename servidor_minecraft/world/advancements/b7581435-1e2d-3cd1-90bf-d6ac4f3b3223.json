@@ -3309,7 +3309,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:calico": "2025-04-06 06:49:03 +0000"
+      "minecraft:calico": "2025-04-06 06:49:03 +0000",
+      "minecraft:ragdoll": "2025-04-06 18:46:38 +0000"
     },
     "done": false
   },
