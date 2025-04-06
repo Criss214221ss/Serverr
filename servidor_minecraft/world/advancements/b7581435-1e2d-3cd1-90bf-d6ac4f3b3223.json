@@ -2719,6 +2719,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-04-06 02:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-04-05 23:58:31 +0000"

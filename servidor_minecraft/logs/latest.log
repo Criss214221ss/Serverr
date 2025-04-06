@@ -69,3 +69,24 @@
 [02:02:30] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
 [02:02:33] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
 [02:03:00] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[02:03:09] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[02:03:57] [Server thread/INFO]: Villager class_1646['Villager'/45184, l='ServerLevel[world]', x=-439.28, y=67.00, z=-986.85] died, message: 'Villager was slain by Zombie'
+[02:04:04] [Server thread/INFO]: Villager class_1646['Villager'/45185, l='ServerLevel[world]', x=-439.28, y=67.00, z=-986.85] died, message: 'Villager was slain by Zombie Villager'
+[02:04:49] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[02:04:51] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[02:04:57] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[02:05:04] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[02:05:06] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[02:05:08] [Server thread/WARN]: Criss_17 moved too quickly! 8.83612851367974,2.73960010540182,-5.859858531518967
+[02:05:19] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[02:07:09] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[02:07:14] [Server thread/INFO]: Criss_17 has made the advancement [Surge Protector]
+[02:09:58] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[02:10:04] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[02:10:05] [Server thread/WARN]: Criss_17 moved too quickly! -0.15580675971762048,-11.2134039128713,0.25950312134648357
+[02:10:39] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[02:10:54] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[02:11:32] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[02:11:34] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[02:11:36] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[02:11:39] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
