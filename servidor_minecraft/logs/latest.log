@@ -178,3 +178,6 @@
 [05:02:23] [Server thread/INFO]: Villager class_1646['Villager'/83885, l='ServerLevel[world]', x=-430.70, y=68.00, z=-995.30] died, message: 'Villager was slain by Zombie'
 [05:04:04] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
 [05:04:07] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[05:08:33] [Server thread/INFO]: Villager class_1646['Librarian'/85591, l='ServerLevel[world]', x=-429.50, y=68.00, z=-994.70] died, message: 'Librarian was slain by Zombie'
+[05:13:35] [Server thread/INFO]: Criss_17 has reached the goal [Zombie Doctor]
+[05:14:33] [Server thread/INFO]: Villager class_1646['Librarian'/88103, l='ServerLevel[world]', x=-429.30, y=68.00, z=-994.30] died, message: 'Librarian was slain by Zombie'
