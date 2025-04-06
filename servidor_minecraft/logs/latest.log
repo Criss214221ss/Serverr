@@ -286,3 +286,4 @@
 [20:02:29] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
 [20:03:43] [Server thread/INFO]: Villager class_1646['Librarian'/24293, l='ServerLevel[world]', x=-417.50, y=70.00, z=-978.30] died, message: 'Librarian was slain by Zombie'
 [20:04:10] [Server thread/INFO]: Villager class_1646['Librarian'/24320, l='ServerLevel[world]', x=-415.49, y=70.00, z=-978.30] died, message: 'Librarian was slain by Zombie'
+[20:11:29] [Server thread/INFO]: Villager class_1646['Villager'/24832, l='ServerLevel[world]', x=-439.25, y=67.00, z=-987.63] died, message: 'Villager was slain by Zombie'
