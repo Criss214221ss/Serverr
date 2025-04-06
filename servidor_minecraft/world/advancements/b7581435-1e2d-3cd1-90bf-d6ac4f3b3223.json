@@ -582,7 +582,8 @@
       "minecraft:enderman": "2025-04-03 03:35:05 +0000",
       "minecraft:silverfish": "2025-04-06 02:41:12 +0000",
       "minecraft:zombie": "2025-04-03 01:20:05 +0000",
-      "minecraft:drowned": "2025-04-06 02:42:35 +0000"
+      "minecraft:drowned": "2025-04-06 02:42:35 +0000",
+      "minecraft:zombie_villager": "2025-04-06 05:00:17 +0000"
     },
     "done": false
   },

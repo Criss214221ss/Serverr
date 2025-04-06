@@ -169,3 +169,12 @@
 [04:27:23] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
 [04:27:54] [Server thread/INFO]: [Criss_17: Teleported Criss_17 to -70.500000, 82.500000, -125.500000]
 [04:35:04] [Server thread/INFO]: [Criss_17: Gave 20 [Slimeball] to Criss_17]
+[04:55:06] [Server thread/INFO]: Villager class_1646['Villager'/75645, l='ServerLevel[world]', x=-429.30, y=68.00, z=-995.70] died, message: 'Villager was slain by Criss_17'
+[04:57:45] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[04:57:47] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[04:58:09] [Server thread/INFO]: Criss_17 was shot by Skeleton
+[04:58:15] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[05:00:06] [Server thread/INFO]: Villager class_1646['Villager'/83883, l='ServerLevel[world]', x=-431.70, y=68.00, z=-995.30] died, message: 'Villager was slain by Zombie'
+[05:02:23] [Server thread/INFO]: Villager class_1646['Villager'/83885, l='ServerLevel[world]', x=-430.70, y=68.00, z=-995.30] died, message: 'Villager was slain by Zombie'
+[05:04:04] [Server thread/INFO]: [Criss_17: Set own game mode to Spectator Mode]
+[05:04:07] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
