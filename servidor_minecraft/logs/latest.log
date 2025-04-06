@@ -190,3 +190,9 @@
 [06:21:59] [Server thread/INFO]: Villager class_1646['Librarian'/97168, l='ServerLevel[world]', x=-417.50, y=70.00, z=-978.30] died, message: 'Librarian was slain by Zombie'
 [06:22:03] [Server thread/INFO]: Villager class_1646['Librarian'/99635, l='ServerLevel[world]', x=-419.50, y=70.00, z=-978.30] died, message: 'Librarian was slain by Zombie'
 [06:51:01] [Server thread/WARN]: Criss_17 moved wrongly!
+[07:10:28] [Server thread/INFO]: Criss_17 was slain by Iron Golem
+[07:10:34] [Server thread/INFO]: [Criss_17: Set own game mode to Survival Mode]
+[07:13:38] [Server thread/INFO]: [Criss_17: Set own game mode to Creative Mode]
+[07:13:39] [Server thread/INFO]: Villager class_1646['Fletcher'/110879, l='ServerLevel[world]', x=-481.55, y=64.56, z=-1022.42] died, message: 'Fletcher was slain by Zombie'
+[07:14:22] [Server thread/INFO]: Villager class_1646['Fletcher'/110883, l='ServerLevel[world]', x=-481.11, y=64.00, z=-1017.70] died, message: 'Fletcher was slain by Zombie Villager'
+[07:16:19] [Server thread/INFO]: Villager class_1646['Fletcher'/110871, l='ServerLevel[world]', x=-481.40, y=64.00, z=-1025.70] died, message: 'Fletcher was slain by Zombie Villager'
